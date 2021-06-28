@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/frann11/100-dias-de-codigo.git/static/css/main.d4bb566b.chunk.css",
+    "main.js": "/frann11/100-dias-de-codigo.git/static/js/main.d1dd5c43.chunk.js",
+    "main.js.map": "/frann11/100-dias-de-codigo.git/static/js/main.d1dd5c43.chunk.js.map",
+    "runtime-main.js": "/frann11/100-dias-de-codigo.git/static/js/runtime-main.a90c3ef8.js",
+    "runtime-main.js.map": "/frann11/100-dias-de-codigo.git/static/js/runtime-main.a90c3ef8.js.map",
+    "static/js/2.5398e14a.chunk.js": "/frann11/100-dias-de-codigo.git/static/js/2.5398e14a.chunk.js",
+    "static/js/2.5398e14a.chunk.js.map": "/frann11/100-dias-de-codigo.git/static/js/2.5398e14a.chunk.js.map",
+    "static/js/3.e54d354e.chunk.js": "/frann11/100-dias-de-codigo.git/static/js/3.e54d354e.chunk.js",
+    "static/js/3.e54d354e.chunk.js.map": "/frann11/100-dias-de-codigo.git/static/js/3.e54d354e.chunk.js.map",
+    "index.html": "/frann11/100-dias-de-codigo.git/index.html",
+    "static/css/main.d4bb566b.chunk.css.map": "/frann11/100-dias-de-codigo.git/static/css/main.d4bb566b.chunk.css.map",
+    "static/js/2.5398e14a.chunk.js.LICENSE.txt": "/frann11/100-dias-de-codigo.git/static/js/2.5398e14a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/frann11/100-dias-de-codigo.git/static/media/logo.6ce24c58.svg",
+    "static/media/App.css": "/frann11/100-dias-de-codigo.git/static/media/pexels-luis-gomes-546819.e24bf3cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a90c3ef8.js",
+    "static/js/2.5398e14a.chunk.js",
+    "static/css/main.d4bb566b.chunk.css",
+    "static/js/main.d1dd5c43.chunk.js"
+  ]
+}
